@@ -1,0 +1,7 @@
+node_modules
+.sendra-lan.json
+dist
+.DS_Store
+.env
+*.local
+public/charting_library
